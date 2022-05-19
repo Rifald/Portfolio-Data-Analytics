@@ -4,6 +4,8 @@ This repository is a listing of my portfolio on data analytics. The contents of 
 
 | Case Study Title | Link           |
 | ------------- |:-------------:| 
-| World Happiness | <a href="https://github.com/Rifald/World-Happiness" target="_blank" rel="noopener noreferrer">Report.</a> | 
-| Transaction Detail PT. Sejahtera Bersama | <a href="https://github.com/Rifald/Case-Study-Transaction-Detail-PT-Sejahtera-Bersama" target="_blank" rel="noopener noreferrer">Report.</a> | 
-| TheLook E-Commerce | <a href="https://github.com/Rifald/Case-Study-TheLook-E-Commerce" target="_blank" rel="noopener noreferrer">Report.</a> | 
+| World Happiness | <a href="https://github.com/Rifald/World-Happiness" target="_blank" rel="noopener noreferrer">Report</a> | 
+| Transaction Detail PT. Sejahtera Bersama | <a href="https://github.com/Rifald/Case-Study-Transaction-Detail-PT-Sejahtera-Bersama" target="_blank" rel="noopener noreferrer">Report</a> | 
+| TheLook E-Commerce | <a href="https://github.com/Rifald/Case-Study-TheLook-E-Commerce" target="_blank" rel="noopener noreferrer">Report</a> | 
+| CO2 Gas Emission | <a href="https://github.com/Rifald/CO2-Gas-Emission" target="_blank" rel="noopener noreferrer">Report</a> | 
+
