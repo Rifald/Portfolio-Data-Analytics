@@ -8,5 +8,5 @@ This repository is a listing of my portfolio on data analytics. The contents of 
 | Transaction Detail PT. Sejahtera Bersama | Analyze Data About Transaction Order In Company Using  SQL, Excel, Microsoft Access and Tableau | <a href="https://github.com/Rifald/Case-Study-Transaction-Detail-PT-Sejahtera-Bersama" target="_blank" rel="noopener noreferrer">Report</a> | 
 | TheLook E-Commerce | Analyze Data About Sales In Company Using  BigQuery, SQL, and Data Studio | <a href="https://github.com/Rifald/Case-Study-TheLook-E-Commerce" target="_blank" rel="noopener noreferrer">Report</a> | 
 | CO2 Gas Emission | Analyze Data About CO2 Gas Emission All Over The World Using Tableau| <a href="https://github.com/Rifald/CO2-Gas-Emission" target="_blank" rel="noopener noreferrer">Report</a> | 
-| Palmer Penguins | Analyze Data About Species Penguins Using R Language | <a href="https://github.com/Rifald/Palmer-Penguins-Report.git" target="_blank" rel="noopener noreferrer">Report</a> | 
+| Palmer Penguins | Analyze Data About Penguin Species Observed In the Palmer Archipelago Antarctica Using R Language | <a href="https://github.com/Rifald/Palmer-Penguins-Report.git" target="_blank" rel="noopener noreferrer">Report</a> | 
 
