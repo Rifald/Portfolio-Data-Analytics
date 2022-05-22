@@ -8,4 +8,5 @@ This repository is a listing of my portfolio on data analytics. The contents of 
 | Transaction Detail PT. Sejahtera Bersama | <a href="https://github.com/Rifald/Case-Study-Transaction-Detail-PT-Sejahtera-Bersama" target="_blank" rel="noopener noreferrer">Report</a> | 
 | TheLook E-Commerce | <a href="https://github.com/Rifald/Case-Study-TheLook-E-Commerce" target="_blank" rel="noopener noreferrer">Report</a> | 
 | CO2 Gas Emission | <a href="https://github.com/Rifald/CO2-Gas-Emission" target="_blank" rel="noopener noreferrer">Report</a> | 
+| Palmer Penguins | <a href="https://github.com/Rifald/Palmer-Penguins-Report.git" target="_blank" rel="noopener noreferrer">Report</a> | 
 
