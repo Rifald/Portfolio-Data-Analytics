@@ -9,4 +9,5 @@ This repository is a listing of my portfolio on data analytics. The contents of 
 | TheLook E-Commerce | Analyze Data About Sales In Company Using  BigQuery, SQL, and Data Studio | <a href="https://github.com/Rifald/Case-Study-TheLook-E-Commerce" target="_blank" rel="noopener noreferrer">Report</a> | 
 | CO2 Gas Emission | Analyze Data About CO2 Gas Emission All Over The World Using Tableau| <a href="https://github.com/Rifald/CO2-Gas-Emission" target="_blank" rel="noopener noreferrer">Report</a> | 
 | Palmer Penguins | Analyze Data About Penguin Species Observed In the Palmer Archipelago Antarctica Using R Language | <a href="https://github.com/Rifald/Palmer-Penguins-Report.git" target="_blank" rel="noopener noreferrer">Report</a> | 
-
+| Tax Payer | build a machine learning model that would predict the political party to which a taxpayer belongs to.build a machine learning model that would predict the political party to which a taxpayer belongs to Using Python | <a href="https://github.com/Rifald/TaxPayer.git" target="_blank" rel="noopener noreferrer">Report</a> | 
+| Pembudidayaan Ikan Nasional | Using R Language | <a href="https://github.com/Rifald/Produksi-Budidaya-Ikan-Nasional.git" target="_blank" rel="noopener noreferrer">Report</a> | 
